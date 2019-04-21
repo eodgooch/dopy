@@ -1,14 +1,14 @@
-Digital Ocean API Python Wrapper
+Digital Ocean API Python Wrapper [Python3]
 ================================
 
-Inspired by `dop <https://github.com/ahmontero/dop>`_.
+This is a fork of the unmaintained dopy project to allow use of Python3 with Ansible DigitalOcean modules. Follow instructions and update your ansible tasks accordingly.
 
-Installation
+Installation for use
 ============
 
 .. code-block:: bash
     
-    # pip install dopy
+    # pip install git+https://github.com/eodgooch/dopy@0.4.0#egg=dopy
 
 Getting Started
 ===============
